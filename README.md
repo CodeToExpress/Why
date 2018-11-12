@@ -12,8 +12,3 @@
 ![alt text](./cover.jpg "Code To Express")
 
 <hr />
-
-<div style="text-align: center;">
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</div>
-
